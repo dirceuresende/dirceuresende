@@ -43,6 +43,15 @@ Blog Series
 * [Segurança e Auditoria no SQL Server](https://www.dirceuresende.com/blog/series/seguranca-e-auditoria/)
 * [Performance Tuning](https://www.dirceuresende.com/blog/series/performance-tuning/)
 
+Blog Posts
+* [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
+* [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
+* [SQL Server – Using TRANSLATE to replace multiple REPLACE](https://en.dirceuresende.com/blog/sql-server-using-translate-to-replace-several-replace/)
+* [SQL Server – How to consult the dollar (USD), euro (EUR) or any other currency in real time with API and SQLCLR](https://en.dirceuresende.com/blog/sql-server-how-to-consult-the-dollar-quotation-usd-euro-eur-real-brl-or-any-other-currency-in-real-time-with-api-and-sqlclr/)
+* [SQL Server - How to know the date of a user's last login](https://en.dirceuresende.com/blog/sql-server-how-to-know-a-user%27s-last-login-date/)
+* [SQL Server - How to know how long a specific database has been online](https://en.dirceuresende.com/blog/sql-server-how-to-know-how-long-a-specific-database-has-been-online/)
+
+
 ## 💼 My Trainings
 * [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
 * [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
