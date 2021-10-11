@@ -30,6 +30,10 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * **Certifications**: Microsoft Certified Solutions Expert [Check full list](https://www.dirceuresende.com/certificacoes)
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [View my MVP profile](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
 
+## 💼 My Trainings (Learn with me)
+* [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
+* [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
+
 ## :zap: My best content
 
 Portals
@@ -45,6 +49,7 @@ Blog Series
 
 Blog Posts - Performance Tuning
 * [SQL Server - Introduction to Performance Tuning Study](https://en.dirceuresende.com/blog/sql-server-introduction-to-performance-tuning-study/)
+* [Understanding Index Functioning in SQL Server](https://en.dirceuresende.com/blog/understanding-how-indexes-work-in-sql-server/)
 * [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
 * [SQL Server - When you should use ORDER BY in the query and when you should not use it at all!](https://en.dirceuresende.com/blog/sql-server-when-you-should-use-order-by-in-the-query-and-when-you-should-not-use-it-at-all/)
 * [SQL Server - Using Calculated Columns (or Computed Columns) for Performance Tuning](https://en.dirceuresende.com/blog/sql-server-using-calculated-columns-or-computed-columns-for-performance-tuning/)
@@ -62,24 +67,31 @@ Blog Posts - Security
 * [SQL Server - How to Avoid SQL Injection? Stop using Dynamic Query as EXEC (@Query). Now](https://en.dirceuresende.com/blog/sql-server-how-to-avoid-sql-injection-stop-using-dynamic-query-like-execquery-now/)
 * [SQL Server - How to Avoid Brute Force Attacks on Your Database](https://en.dirceuresende.com/blog/sql-server-how-to-prevent-brute-force-attacks-on-your-database/)
 * [SQL Server - How to Avoid and Protect Against Ransomware Attacks Like WannaCry on Your Database Server](https://en.dirceuresende.com/blog/sql-server-how-to-prevent-and-protect-against-ransomware-attacks-like-wannacry-on-your-database-server/)
-* [SQL Server - How to use auditing to map actual required permissions on a user](https://en.dirceuresende.com/blog/sql-server-how-to-use-auditing-to-map-actual-required-permissions-to-a-user/)
 * [SQL Server - How to use EXECUTE AS to execute commands as another user (Impersonate login and user)](https://en.dirceuresende.com/blog/sql-server-how-to-use-execute-as-to-execute-commands-as-another-impersonate-user-and-how-to-prevent-it/)
 * [SQL Server - How to Hide Databases from Unauthorized Users](https://en.dirceuresende.com/blog/sql-server-how-to-hide-databases-for-unauthorized-users/)
 
 Blog Posts - Data Privacy
 * [General Personal Data Protection Act (LGPDP or LGPD) applied to SQL Server databases](https://en.dirceuresende.com/blog/general-lgpdp-or-lgpd-personal-data-protection-law-applied-to-sql-server-database/)
 * [SQL Server - Avoiding Queries on Certain Columns with Column Level Security (CLS)](https://en.dirceuresende.com/blog/sql-server-avoiding-queries-on-certain-columns-with-column-level-security-cls/)
-* [SQL Server - How to Monitor and Audit Data Changes in Tables Using Change Data Capture (CDC)](https://en.dirceuresende.com/blog/sql-server-how-to-monitor-and-audit-data-changes-in-tables-using-change-data-capture-cdc/)
-* [SQL Server 2016 - Data Masking with Dynamic Data Masking (DDM)](https://en.dirceuresende.com/blog/sql-server-data-masking-with-dynamic-data-masking-ddm/)
 * [SQL Server - Encrypting passwords with the symmetric encryption functions ENCRYPTBYPASSPHRASE and DECRYPTBYPASSPHRASE](https://en.dirceuresende.com/blog/sql-server-encrypting-passwords-with-symmetric-encryption-functions-encryptbypassphrase-and-decryptbypassphrase/)
+* [Working with cryptographic functions (MD4, MD5, SHA1, SHA2_256, and SHA2_512) using the SQL Server HASHBYTES function](https://en.dirceuresende.com/blog/hashbytes-sql-server-md4-md5-sha1-sha2/)
+* [Working with the Base64 Encryption Algorithm in SQL Server](https://en.dirceuresende.com/blog/working-with-base64-encryption-algorithm-on-sql-server/)
 * [SQL Server 2008 - How to Encrypt Your Data Using Transparent Data Encryption (TDE)](https://en.dirceuresende.com/blog/sql-server-2008-how-to-encrypt-your-data-using-transparent-data-encryption-tde/)
 * [SQL Server 2016 - How to Encrypt Your Data Using Always Encrypted](https://en.dirceuresende.com/blog/sql-server-2016-how-to-encrypt-your-data-using-always-encrypted/)
 * [SQL Server 2016 - How to protect your data using Row Level Security (RLS)](https://en.dirceuresende.com/blog/sql-server-how-to-protect-your-data-using-row-level-security-rls/)
 
-Blog Posts - Files
-* [SQL Server - File Operations Using xp_cmdshell (Listing, Reading, Writing, Copying, Deleting, and Moving Files)](https://en.dirceuresende.com/blog/sql-server-file-operations-using-xp_cmdshell-like-list-read-write-copy-delete-and-move-files/)
-* [SQL Server - How to export the contents of a column to XML files](https://en.dirceuresende.com/blog/sql-server-how-to-export-the-contents-of-a-column-to-xml-files/)
-* [SQL Server - How to export and import tabular data files (Ex: CSV) using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-export-and-import-character-delimited-files-csv-tabular-data-using-clr-c/)
+Blog Posts - Audit
+* [Audit on SQL Server (Server Audit)](https://en.dirceuresende.com/blog/sql-audit-server-audit-dml-ddl/)
+* [SQL Server - How to Monitor and Audit Data Changes in Tables Using Change Data Capture (CDC)](https://en.dirceuresende.com/blog/sql-server-how-to-monitor-and-audit-data-changes-in-tables-using-change-data-capture-cdc/)
+* [SQL Server 2016 - Data Masking with Dynamic Data Masking (DDM)](https://en.dirceuresende.com/blog/sql-server-data-masking-with-dynamic-data-masking-ddm/)
+* [SQL Server - How to use auditing to map actual required permissions on a user](https://en.dirceuresende.com/blog/sql-server-how-to-use-auditing-to-map-actual-required-permissions-to-a-user/)
+* [SQL Server 2016 - How to “Time Travel” Using the Temporal Tables Feature](https://en.dirceuresende.com/blog/sql-server-2016-how-to-travel-through-time-using-the-temporal-tables-feature/)
+* [SQL Server - How to Create a Data Change History for Your Tables (Audit Logs)](https://en.dirceuresende.com/blog/sql-server-how-to-create-data-change-history-for-your-audit-log-tables/)
+* [Using SQL Server Standard Trace to Audit Events (fn_trace_gettable)](https://en.dirceuresende.com/blog/using-sql-server-standard-trace-to-audit-fn_trace_gettable-events/)
+* [How to find out the date of last access to a table or view and execution of a procedure in SQL Server](https://en.dirceuresende.com/blog/how-to-find-out-the-date-of-last-access-to-a-table-or-view-and-execute-a-procedure-in-sql-server/)
+* [SQL Server - How to implement audit and control of logins (Logon Trigger)](https://en.dirceuresende.com/blog/how-to-implement-audit-and-login-control-in-sql-server-trigger-logon/)
+* [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
+* [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
 
 Blog Posts - Monitoring
 * [SQL Server - Query to return running queries (sp_WhoIsActive without consuming TempDB)](https://en.dirceuresende.com/blog/sql-server-query-to-return-active-sp_whoisactive-sessions-without-consuming-tempdb/)
@@ -92,9 +104,28 @@ Blog Posts - Monitoring
 * [SQL Server - How to recover the source code of deleted objects (View, Stored Procedure, Function and Trigger)](https://en.dirceuresende.com/blog/sql-server-retrieving-source-code-of-deleted-objects-view-stored-procedure-function-and-trigger/)
 * [SQL Server - How to identify deprecated features being used in the instance (Extended Events - XE)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-deprecated-features-deprecated-features-being-used-in-extended-events-instance-xe/)
 * [SQL Server - Using Resource Governor for greater control over server resources](https://en.dirceuresende.com/blog/sql-server-using-resource-governor-for-greater-control-of-server-resources/)
-* [SQL Server 2016 - How to “Time Travel” Using the Temporal Tables Feature](https://en.dirceuresende.com/blog/sql-server-2016-how-to-travel-through-time-using-the-temporal-tables-feature/)
+* [SQL Server - How to identify and monitor total free disk space used by database datafiles](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-total-disk-space-used-by-databases-datafiles/)
+* [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
+* [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
+* [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
+
+Blog Posts - Files
+* [SQL Server - File Operations Using xp_cmdshell (Listing, Reading, Writing, Copying, Deleting, and Moving Files)](https://en.dirceuresende.com/blog/sql-server-file-operations-using-xp_cmdshell-like-list-read-write-copy-delete-and-move-files/)
+* [SQL Server - How to list, read, write, copy, delete and move files with CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-read-write-copy-delete-and-move-files-with-clr-c/)
+* [File Operations Using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/file-operations-using-ole-automation-on-sql-server/)
+* [SQL Server - Importing and Exporting data from Excel spreadsheets](https://en.dirceuresende.com/blog/sql-server-importing-and-exporting-excel-spreadsheet-data/)
+* [Importing CSV Files into the SQL Server Database](https://en.dirceuresende.com/blog/importing-csv-files-into-sql-server-database/)
+* [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
+* [SQL Server - How to export database data to text file (CLR, OLE, BCP)](https://en.dirceuresende.com/blog/sql-server-how-to-export-database-data-to-clr-ole-bcp-text-file/)
+* [SQL Server - How to import text files into database (OLE Automation, CLR, BCP, BULK INSERT, OPENROWSET)](https://en.dirceuresende.com/blog/sql-server-import-text-files-into-ole-automation-clr-database-bcp-bulk-insert-openrowset/)
+* [SQL Server - How to export the contents of a column to XML files](https://en.dirceuresende.com/blog/sql-server-how-to-export-the-contents-of-a-column-to-xml-files/)
+* [SQL Server - How to export and import tabular data files (Ex: CSV) using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-export-and-import-character-delimited-files-csv-tabular-data-using-clr-c/)
+* [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
+* [How to export data from a SQL Server table to HTML](https://en.dirceuresende.com/blog/how-to-export-data-from-sql-server-table-to-html/)
 
 Blog Posts - SQLCLR, PowerShell and OLE Automation
+* [Introduction to SQL Common Language Runtime (CLR) in SQL Server](https://en.dirceuresende.com/blog/sql-clr-common-language-runtime-sql-server/)
+* [Performing POST and GET requests using CLR (C #) in SQL Server](https://en.dirceuresende.com/blog/performing-post-and-get-requests-using-clr-on-sql-server/)
 * [SQL Server – How to consult the dollar (USD), euro (EUR) or any other currency in real time with API and SQLCLR](https://en.dirceuresende.com/blog/sql-server-how-to-consult-the-dollar-quotation-usd-euro-eur-real-brl-or-any-other-currency-in-real-time-with-api-and-sqlclr/)
 * [SQL Server - How to send messages to Whatsapp contacts, groups and mailing lists via API](https://en.dirceuresende.com/blog/sql-server-how-to-send-messages-to-contacts-groups-and-whatsapp-mailing-lists-via-api/)
 * [Using PowerShell and the API with Agent or SSIS to Automate Updating a Power BI Data Set](https://en.dirceuresende.com/blog/how-to-use-powershell-and-api-with-agent-or-ssis-to-automate-updating-a-power-bi-dataset/)
@@ -103,33 +134,49 @@ Blog Posts - SQLCLR, PowerShell and OLE Automation
 * [SQL Server - How to compress and unzip files and directories using 7-zip and xp_cmdshell or SQLCLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-compress-and-unzip-files-and-directories-using-7-zip-and-xp_cmdshell-or-sqlclr-c/)
 * [SQL Server - How to capture data from a Web page (Webscraping with HttpRequest) and insert the data into the database with SQLCLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-capture-data-from-a-httprequest-webscraping-web-page-and-insert-data-into-database-with-sqlclr-csharp/)
 * [SQL Server - How to query and consume WordPress RSS feeds using CLR or xp_cmdshell (cURL)](https://en.dirceuresende.com/blog/sql-server-how-to-query-and-consume-wordpress-rss-feeds-using-clr-or-xp_cmdshell-curl/)
+* [SQL Server - How to read, list, create, change and delete Windows registry keys (Regedit) by CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-read-create-alter-and-delete-windows-registry-keys-by-clr-csharp/)
+* [SQL Server - How to list and eliminate Windows processes using the CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-and-delete-windows-processes-using-clr-csharp/)
+* [Consuming the Google Maps API using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/consuming-google-maps-api-using-ole-automation-on-sql-server/)
 
-Blog Posts - General Stuff
+Blog Posts - Query Development
+* [SQL Server 2016 - Using Native JSON Support (JSON_VALUE, JSON_QUERY, OPENJSON, FOR JSON, ISJSON, JSON_MODIFY)](https://en.dirceuresende.com/blog/sql-server-2016-using-native-json-support-json_value-json_query-openjson-for-json-isjson-json_modify/)
+* [SQL Server - How to read, import, and export data from XML files](https://en.dirceuresende.com/blog/sql-server-how-to-read-import-and-export-xml-file-data/)
 * [SQL Server - How to use regular expressions (RegExp) in your database](https://en.dirceuresende.com/blog/sql-server-how-to-use-regexp-regular-expressions-in-your-database/)
 * [SQL Server - How to identify and replace “strange things” (hidden characters) in strings and tables](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-replace-strange-things-invisible-hidden-characters-in-strings-and-tables/)
+* [SQL Server - Breaking strings into sub-strings using a separator (Split string)](https://en.dirceuresende.com/blog/breaking-strings-into-sub-strings-using-separator-in-sql-server/)
+* [SQL Server - How to concatenate rows by grouping data by a column (Grouped concatenation)](https://en.dirceuresende.com/blog/sql-server-how-to-concatenate-rows-by-grouping-data-by-a-grouped-concatenation-column/)
+* [SQL Server 2012 - Working with Sequences and IDENTITY Comparisons](https://en.dirceuresende.com/blog/sql-server-2012-working-with-sequences-and-comparisons-with-identity/)
 * [SQL Server - How to create recursive queries with CTE (Common Table Expressions)](https://en.dirceuresende.com/blog/sql-server-how-to-create-recursive-queries-with-cte-common-table-expressions/)
 * [SQL Server 2012 - Using the FORMAT function to apply masks and formatting to numbers and dates](https://en.dirceuresende.com/blog/sql-server-using-format-function-to-apply-masks-and-formatting-to-numbers-and-dates/)
 * [SQL Server – Using TRANSLATE to replace multiple REPLACE](https://en.dirceuresende.com/blog/sql-server-using-translate-to-replace-several-replace/)
-* [SQL Server - How to send the contents of a table or query in the body of the email as HTML](https://en.dirceuresende.com/blog/sql-server-how-to-send-the-contents-of-a-table-or-query-in-the-body-of-the-email-as-html/)
 * [SQL Server - String or binary data would be truncated: What is, how to identify root cause and how to fix](https://en.dirceuresende.com/blog/sql-server-string-or-binary-data-would-be-truncated-what-and-how-to-identify-root-cause-and-how-to-fix/)
 * [SQL Server - How to identify data conversion errors using TRY_CAST, TRY_CONVERT, TRY_PARSE, ISNUMERIC, and ISDATE](https://en.dirceuresende.com/blog/sql-server-how-to-identify-data-conversion-errors-using-try_cast-try_convert-try_parse-isnumeric-and-isdate/)
+* [SQL Server - Grouping Data Using ROLLUP, CUBE, and GROUPING SETS](https://en.dirceuresende.com/blog/sql-server-grouping-data-using-cube-rollup-and-grouping-sets/)
+* [How to remove accent and special characters from a string in SQL Server](https://en.dirceuresende.com/blog/how-to-remove-accent-and-special-characters-from-a-string-in-sql-server/)
+* [Removing HTML Tags from a String in SQL Server](https://en.dirceuresende.com/blog/removing-html-tags-from-a-string-in-sql-server/)
+
+Blog Posts - General Stuff
+* [SQL Server - How to enable and configure Database mail to send and monitor database emails (sp_send_dbmail)](https://en.dirceuresende.com/blog/how-to-enable-send-monitor-mail-by-sql-server-sp_send_dbmail/)
+* [SQLCMD - The SQL Server command line utility](https://en.dirceuresende.com/blog/sqlcmd-the-sql-server-command-line-utility/)
+* [SQL Server - How to send the contents of a table or query in the body of the email as HTML](https://en.dirceuresende.com/blog/sql-server-how-to-send-the-contents-of-a-table-or-query-in-the-body-of-the-email-as-html/)
 * [SQL Server - How to use MERGE command to enter, update and delete data with 1 command only](https://en.dirceuresende.com/blog/sql-server-how-to-use-merge-command-to-insert-update-and-delete-data-with-just-1-command/)
 * [SQL Server - How to create a code version of your Stored Procedures in HTML and with comments on the change](https://en.dirceuresende.com/blog/sql-server-how-to-create-a-code-version-of-your-stored-procedures-in-html-and-with-change-comments/)
 * [SQL Server - How to standardize the Collation of all columns in the database](https://en.dirceuresende.com/blog/sql-server-how-to-standardize-collation-of-all-database-columns/)
 * [SQL Server - How to document the database and its objects (tables, procedures, columns) using Extended Property](https://en.dirceuresende.com/blog/sql-server-how-to-document-the-database-and-its-objects-tables-procedures-columns-using-extended-property/)
 * [SQL Server - How to retrieve the source code of an encrypted object (WITH ENCRYPTION)](https://en.dirceuresende.com/blog/sql-server-retrieving-source-code-from-encrypted-object-with-encryption/)
 * [SQL Server - How to query Active Directory (AD) information using Linked Server (ADSI)](https://en.dirceuresende.com/blog/sql-server-how-to-query-active-directory-ad-information-using-linked-server-adsi/)
+* [SQL Server - Understanding SQL Agent Permissions and Roles (SQLAgentUserRole, SQLAgentReaderRole, and SQLAgentOperatorRole)](https://en.dirceuresende.com/blog/sql-server-understanding-sql-agent-permissions-and-roles-sqlagentuserrole-sqlagentreaderrole-sqlagentoperatorrole/)
+* [SQL Server - How to transfer logins between instances by backing up users, logins, and permissions](https://en.dirceuresende.com/blog/sql-server-how-to-transfer-logins-between-instances-generating-engineering-reserve-users-logins-and-permissions/)
+* [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
+* [SQL Server - How to export the source code of all Stored Procedures, Functions, Views and Triggers from a database to .sql files](https://en.dirceuresende.com/blog/sql-server-how-to-export-source-code-of-all-stored-procedures-functions-views-triggers-from-database-to-sql-files/)
 
 Blog Posts - Business Intelligence
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
 * [SQL Server Reporting Services (SSRS) - Which reports are most accessed? And which are not being used?](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-which-reports-are-most-accessed-and-which-are-not-being-used/)
 * [SQL Server Reporting Services (SSRS) - How to log the report view and identify which user is accessing](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-how-to-log-reports-view-and-identify-which-user-is-accessing/)
+* [Analysis Services - Creating Your First Multidimensional Cube in the Star Model (Star Schema)](https://en.dirceuresende.com/blog/analysis-services-how-to-create-your-first-multidimensional-cube-in-the-star-schema-star-model/)
 * [Analysis Services - How to use XLMA or Powershell to process cubes and dimensions via command line (T-SQL) or SQL Agent Job](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-to-process-cubes-and-dimensions-via-tsql-powershell-or-sql-agent-job/)
 * [Analysis Services - How to use XLMA to backup and restore cubes via the T-SQL command line](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-for-cube-backup-and-restore-via-t-sql-command-line/)
-
-## 💼 My Trainings
-* [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
-* [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
 
 ## :blush: Nerd Stats
 
