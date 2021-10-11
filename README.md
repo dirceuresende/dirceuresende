@@ -40,8 +40,8 @@ YouTube
 * [Power BI Report Server](https://www.youtube.com/watch?v=SjEO428ISmw&list=PLWfPHxJoa7zs8CPmMHPldxTS97G0ftCrF)
 
 Blog Series
-* [Segurança e Auditoria no SQL Server](https://www.dirceuresende.com/blog/series/seguranca-e-auditoria/)
-* [Performance Tuning](https://www.dirceuresende.com/blog/series/performance-tuning/)
+* [SQL Server - Security and Audit](https://en.dirceuresende.com/blog/series/security-and-audit/)
+* [SQL Server - Performance Tuning](https://en.dirceuresende.com/blog/series/performance-tuning/)
 
 Blog Posts
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
