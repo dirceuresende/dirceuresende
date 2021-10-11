@@ -34,7 +34,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
 * [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
 
-## :zap: My best content (Content that I'm proud that I created)
+## :zap: My best content (Contents that make me proud)
 
 Portals
 * [MSSQLServer - Data Platform Portal](https://mssqlserver.com.br/)
