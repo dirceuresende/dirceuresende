@@ -34,7 +34,7 @@
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
 <br/><br/>
 
-## 😄 My Career
+## 💼 My Career
 I have Bachelor's degree in Information Systems from Granbery Methodist School as a prominent student, recognized by the Brazilian Society of Computing as one of the best IT Students in Brazil [(Check my recognization here)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143).
 
 I'm a database and BI specialist, working exclusively with SQL Server, Analysis Services, Integration Services and Reporting Services since 2013 and exclusively with Azure since 2018. 
@@ -42,7 +42,7 @@ I'm a database and BI specialist, working exclusively with SQL Server, Analysis 
 I have worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the largest mining companies of the world. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Performance. I currently lives in Barbados, in the Caribbean region, and work at the Caribbean Development Bank as a Data Specialist.
 <br/><br/>
 
-## 😄 Tech Community Leader
+## 🤓 Tech Community Leader
 I am very very active in the Data Platform technical community and have already spoken at the biggest data events on Microsoft technologies in Brazil, such as SQL Saturday, MVPConf, Power BI Roadshow and Power Platform World Tour.
 
 I publish videos on the Planilheiros Brasil channel, the largest YouTube channel on Power BI content in the world and have written over 400 technical articles on my blog, the most accessed database blog in Brazil and also on major portals such as iMasters and codigosimples.net
