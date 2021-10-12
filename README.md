@@ -1,6 +1,8 @@
+<div id="top"></div>
 <img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
 
 # 👋 Dirceu Resende
+> Data Engineer, Data Analyst and DBA
 
 - 📃 I’m currently blogging at [Dirceu Resende](https://www.dirceuresende.com)
 - 🌱 I publish Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
@@ -32,6 +34,7 @@
 * **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [(Check my title)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
 * **Certifications**: Microsoft Certified Solutions Expert [(Check full list)](https://www.dirceuresende.com/certificacoes)
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
 ## 💼 My Career
@@ -42,6 +45,8 @@ I'm a database and BI specialist, working exclusively with SQL Server, Analysis 
 I have worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the largest mining companies of the world. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Consultancy. 
 
 I currently live in Barbados, in the Caribbean region, and work at the Caribbean Development Bank as a Data Specialist.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
 ## 🤓 Tech Community Leader
@@ -52,11 +57,15 @@ I publish videos on the [Planilheiros](https://www.youtube.com/PlanilheirosBrasi
 As one of the leaders of a Data Community on my City (Vitória), called [SQL Server ES](http://sqlserveres.com.br/) we organized over 15 events in person and I am proud to be part of [SQL Saturday #900 - Vitória](https://en.dirceuresende.com/blog/sql-saturday-900-wins-es-a-dream-that-has-impacted-more-than-300-professionals-and-students/) a big data event that had 30 speakers and over 300 professionals and students in person with us. It was magic, a dream come true! 
 
 Because my contributions and leadership in the Data Community, I have been recognized as a Microsoft Most Valuable Professional (MVP) since 2018 [(Check my profile here)](https://mvp.microsoft.com/en-us/PublicProfile/5003166) and I have been one of the most active Data Platform MVP's in the World.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
 ## 💼 My Trainings (Learn with me)
 * [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
 * [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
 ## :zap: My best content (Contents that make me proud)
@@ -69,6 +78,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 ### 🎬 YouTube
 * [Power BI & Analysis Services](https://www.youtube.com/watch?v=i06lEDgCOTE&list=PLWfPHxJoa7zuGjcEiXxr5rmHVm775EAma)
 * [Power BI Report Server](https://www.youtube.com/watch?v=SjEO428ISmw&list=PLWfPHxJoa7zs8CPmMHPldxTS97G0ftCrF)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### ⚡ Blog Posts - Performance Tuning
@@ -83,6 +93,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - NOLOCK vs READPAST: Do you know the difference between the two?](https://en.dirceuresende.com/blog/sql-server-nolock-vs-readpast-you-know-the-difference-between-the-two/)
 * [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
 * [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 🔐 Blog Posts - Security
@@ -94,6 +105,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to Avoid and Protect Against Ransomware Attacks Like WannaCry on Your Database Server](https://en.dirceuresende.com/blog/sql-server-how-to-prevent-and-protect-against-ransomware-attacks-like-wannacry-on-your-database-server/)
 * [SQL Server - How to use EXECUTE AS to execute commands as another user (Impersonate login and user)](https://en.dirceuresende.com/blog/sql-server-how-to-use-execute-as-to-execute-commands-as-another-impersonate-user-and-how-to-prevent-it/)
 * [SQL Server - How to Hide Databases from Unauthorized Users](https://en.dirceuresende.com/blog/sql-server-how-to-hide-databases-for-unauthorized-users/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 🔑 Blog Posts - Data Privacy
@@ -106,6 +118,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server 2008 - How to Encrypt Your Data Using Transparent Data Encryption (TDE)](https://en.dirceuresende.com/blog/sql-server-2008-how-to-encrypt-your-data-using-transparent-data-encryption-tde/)
 * [SQL Server 2016 - How to Encrypt Your Data Using Always Encrypted](https://en.dirceuresende.com/blog/sql-server-2016-how-to-encrypt-your-data-using-always-encrypted/)
 * [SQL Server 2016 - How to protect your data using Row Level Security (RLS)](https://en.dirceuresende.com/blog/sql-server-how-to-protect-your-data-using-row-level-security-rls/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 👀 Blog Posts - Audit
@@ -119,6 +132,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
 * [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
 * [SQL Server - Permissions and privileges audit trigger at database and instance level (GRANT and REVOKE)](https://en.dirceuresende.com/blog/sql-server-database-and-privilege-permission-and-trigger-audit-trigger-grant-revoke/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 📊 Blog Posts - Monitoring
@@ -137,6 +151,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
 * [SQL Server – How to list the largest tables and indexes in the database and show the size of each](https://en.dirceuresende.com/blog/sql-server-how-to-list-the-largest-tables-and-indices-in-the-database-and-show-the-size-of-each/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 📁 Blog Posts - Files
@@ -152,6 +167,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [How to export data from a SQL Server table to HTML](https://en.dirceuresende.com/blog/how-to-export-data-from-sql-server-table-to-html/)
 * [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
 * [SQL Server - How to Batch Run All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 🛠️ Blog Posts - SQLCLR, PowerShell and OLE Automation
@@ -168,6 +184,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to list and eliminate Windows processes using the CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-and-delete-windows-processes-using-clr-csharp/)
 * [Consuming the Google Maps API using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/consuming-google-maps-api-using-ole-automation-on-sql-server/)
 * [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 🧷 Blog Posts - Query Development
@@ -186,6 +203,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - Grouping Data Using ROLLUP, CUBE, and GROUPING SETS](https://en.dirceuresende.com/blog/sql-server-grouping-data-using-cube-rollup-and-grouping-sets/)
 * [How to remove accent and special characters from a string in SQL Server](https://en.dirceuresende.com/blog/how-to-remove-accent-and-special-characters-from-a-string-in-sql-server/)
 * [Removing HTML Tags from a String in SQL Server](https://en.dirceuresende.com/blog/removing-html-tags-from-a-string-in-sql-server/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### ✅ Blog Posts - General Stuff
@@ -202,6 +220,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to transfer logins between instances by backing up users, logins, and permissions](https://en.dirceuresende.com/blog/sql-server-how-to-transfer-logins-between-instances-generating-engineering-reserve-users-logins-and-permissions/)
 * [SQL Server - How to export the source code of all Stored Procedures, Functions, Views and Triggers from a database to .sql files](https://en.dirceuresende.com/blog/sql-server-how-to-export-source-code-of-all-stored-procedures-functions-views-triggers-from-database-to-sql-files/)
 * [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 ### 📈 Blog Posts - Business Intelligence
@@ -215,6 +234,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [Analysis Services - How to use XLMA or Powershell to process cubes and dimensions via command line (T-SQL) or SQL Agent Job](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-to-process-cubes-and-dimensions-via-tsql-powershell-or-sql-agent-job/)
 * [Analysis Services - How to use XLMA to backup and restore cubes via the T-SQL command line](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-for-cube-backup-and-restore-via-t-sql-command-line/)
 * [SQL Server and Power BI: How to load Stored Procedure data into SQL Server with DirectQuery](https://en.dirceuresende.com/blog/sql-server-and-power-bi-how-to-load-stored-procedure-data-into-sql-server-with-directquery/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
 ## :blush: Nerd Stats
@@ -222,3 +242,5 @@ Because my contributions and leadership in the Data Community, I have been recog
 <p align="justify">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=dirceuresende&show_icons=true&count_private=true&theme=algolia" />       &nbsp;  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirceuresende&layout=compact&theme=algolia" />
 </p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
