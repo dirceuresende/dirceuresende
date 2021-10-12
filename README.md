@@ -34,7 +34,7 @@
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
 <br/><br/>
 
-## 😄 My Carrer
+## 😄 My Career
 I have Bachelor's degree in Information Systems from Granbery Methodist School as a prominent student, recognized by the Brazilian Society of Computing as one of the best IT Students in Brazil [(Check my recognization here)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143).
 
 I'm a database and BI specialist, working exclusively with SQL Server, Analysis Services, Integration Services and Reporting Services since 2013 and exclusively with Azure since 2018. 
