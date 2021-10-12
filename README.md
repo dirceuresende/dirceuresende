@@ -50,7 +50,6 @@ Blog Series
 Blog Posts - Performance Tuning
 * [SQL Server - Introduction to Performance Tuning Study](https://en.dirceuresende.com/blog/sql-server-introduction-to-performance-tuning-study/)
 * [Understanding Index Functioning in SQL Server](https://en.dirceuresende.com/blog/understanding-how-indexes-work-in-sql-server/)
-* [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
 * [SQL Server - When you should use ORDER BY in the query and when you should not use it at all!](https://en.dirceuresende.com/blog/sql-server-when-you-should-use-order-by-in-the-query-and-when-you-should-not-use-it-at-all/)
 * [SQL Server - Using Calculated Columns (or Computed Columns) for Performance Tuning](https://en.dirceuresende.com/blog/sql-server-using-calculated-columns-or-computed-columns-for-performance-tuning/)
 * [SQL Server - Performance Tuning Tips: What is the Difference Between Seek Predicate and Predicate?](https://en.dirceuresende.com/blog/sql-server-performance-tuning-tips-what-is-the-difference-between-seek-predicate-and-predicate/)
@@ -59,6 +58,7 @@ Blog Posts - Performance Tuning
 * [SQL Server - Performance Comparison between Scalar Function and CLR Scalar Function](https://en.dirceuresende.com/blog/sql-server-performance-comparison-between-scalar-function-udf-and-clr-scalar-function/)
 * [SQL Server - NOLOCK vs READPAST: Do you know the difference between the two?](https://en.dirceuresende.com/blog/sql-server-nolock-vs-readpast-you-know-the-difference-between-the-two/)
 * [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
+* [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
 
 Blog Posts - Security
 * [SQL Server - How to identify fragile passwords, empty or equal to username](https://en.dirceuresende.com/blog/sql-server-how-to-identify-weak-passwords-empty-or-equal-to-username/)
