@@ -11,17 +11,20 @@
 - 📖 I write SQL Server articles at [códigosimples.net](https://codigosimples.net/author/dirceu-resende/)
 - 💼 I’m currently learning Data Storytelling, Analysis Services Internals and SQL Server Internals
 - 💬 Ask me about @sql, @sqlserver, @powerbi, @azuredatafactory, @ssis and @analysisservices
-- 📫 How to reach me: dirceuresende.com
 - 😄 Pronouns: deer-c-o
 - ⚡ Fun fact: just a nerd and food lover guy
 
-<p align="left"><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-    <a target='_blank' href="https://www.dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" /></a>
+<div align="center"><p align="center"><br/>How to reach me:</p><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+    <a target='_blank' href="https://www.dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a target='_blank' href="https://www.dirceuresende.com/telegram" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a target='_blank' href="https://www.dirceuresende.com" alt="Website"><img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+
+<p align="center"><br/>Follow me on social media:</p>
     <a target='_blank' href="https://twitter.com/dirceuresende" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a target='_blank' href="https://instagram.com/dirceu.resende/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a target='_blank' href="https://linkedin.com/in/dirceuresende" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a target='_blank' href="https://www.dirceuresende.com" alt="Website"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-    <a target='_blank' href="https://www.youtube.com/dirceu-resende" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></p>
+    <a target='_blank' href="https://www.youtube.com/dirceu-resende" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</div>
 <br/><br/>
 
 ## 😄 About me
