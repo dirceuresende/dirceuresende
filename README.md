@@ -39,7 +39,9 @@ I have Bachelor's degree in Information Systems from Granbery Methodist School a
 
 I'm a database and BI specialist, working exclusively with SQL Server, Analysis Services, Integration Services and Reporting Services since 2013 and exclusively with Azure since 2018. 
 
-I have worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the largest mining companies of the world. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Consultancy. I currently lives in Barbados, in the Caribbean region, and work at the Caribbean Development Bank as a Data Specialist.
+I have worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the largest mining companies of the world. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Consultancy. 
+
+I currently live in Barbados, in the Caribbean region, and work at the Caribbean Development Bank as a Data Specialist.
 <br/><br/>
 
 ## 🤓 Tech Community Leader
