@@ -69,11 +69,6 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [Power BI Report Server](https://www.youtube.com/watch?v=SjEO428ISmw&list=PLWfPHxJoa7zs8CPmMHPldxTS97G0ftCrF)
 <br/>
 
-### 📖 Blog Series
-* [SQL Server - Security and Audit](https://en.dirceuresende.com/blog/series/security-and-audit/)
-* [SQL Server - Performance Tuning](https://en.dirceuresende.com/blog/series/performance-tuning/)
-<br/>
-
 ### ⚡ Blog Posts - Performance Tuning
 * [SQL Server - Introduction to Performance Tuning Study](https://en.dirceuresende.com/blog/sql-server-introduction-to-performance-tuning-study/)
 * [Understanding Index Functioning in SQL Server](https://en.dirceuresende.com/blog/understanding-how-indexes-work-in-sql-server/)
