@@ -55,10 +55,10 @@ Blog Posts - Performance Tuning
 * [SQL Server - Using Calculated Columns (or Computed Columns) for Performance Tuning](https://en.dirceuresende.com/blog/sql-server-using-calculated-columns-or-computed-columns-for-performance-tuning/)
 * [SQL Server - Performance Tuning Tips: What is the Difference Between Seek Predicate and Predicate?](https://en.dirceuresende.com/blog/sql-server-performance-tuning-tips-what-is-the-difference-between-seek-predicate-and-predicate/)
 * [SQL Server - Performance Tuning Tips: Implicit Conversion? NEVER!](https://en.dirceuresende.com/blog/sql-server-performance-tuning-tips-implied-conversation-never-again/)
-* [SQL Server - NOLOCK vs READPAST: Do you know the difference between the two?](https://en.dirceuresende.com/blog/sql-server-nolock-vs-readpast-you-know-the-difference-between-the-two/)
-* [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
 * [SQL Server - How to Identify a Slow or “Heavy” Query in Your Database](https://en.dirceuresende.com/blog/sql-server-how-to-identify-a-slow-or-heavy-query-in-your-database/)
 * [SQL Server - Performance Comparison between Scalar Function and CLR Scalar Function](https://en.dirceuresende.com/blog/sql-server-performance-comparison-between-scalar-function-udf-and-clr-scalar-function/)
+* [SQL Server - NOLOCK vs READPAST: Do you know the difference between the two?](https://en.dirceuresende.com/blog/sql-server-nolock-vs-readpast-you-know-the-difference-between-the-two/)
+* [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
 
 Blog Posts - Security
 * [SQL Server - How to identify fragile passwords, empty or equal to username](https://en.dirceuresende.com/blog/sql-server-how-to-identify-weak-passwords-empty-or-equal-to-username/)
@@ -72,6 +72,7 @@ Blog Posts - Security
 
 Blog Posts - Data Privacy
 * [General Personal Data Protection Act (LGPDP or LGPD) applied to SQL Server databases](https://en.dirceuresende.com/blog/general-lgpdp-or-lgpd-personal-data-protection-law-applied-to-sql-server-database/)
+* [SQL Server 2016 - Data Masking with Dynamic Data Masking (DDM)](https://en.dirceuresende.com/blog/sql-server-data-masking-with-dynamic-data-masking-ddm/)
 * [SQL Server - Avoiding Queries on Certain Columns with Column Level Security (CLS)](https://en.dirceuresende.com/blog/sql-server-avoiding-queries-on-certain-columns-with-column-level-security-cls/)
 * [SQL Server - Encrypting passwords with the symmetric encryption functions ENCRYPTBYPASSPHRASE and DECRYPTBYPASSPHRASE](https://en.dirceuresende.com/blog/sql-server-encrypting-passwords-with-symmetric-encryption-functions-encryptbypassphrase-and-decryptbypassphrase/)
 * [Working with cryptographic functions (MD4, MD5, SHA1, SHA2_256, and SHA2_512) using the SQL Server HASHBYTES function](https://en.dirceuresende.com/blog/hashbytes-sql-server-md4-md5-sha1-sha2/)
@@ -83,27 +84,26 @@ Blog Posts - Data Privacy
 Blog Posts - Audit
 * [Audit on SQL Server (Server Audit)](https://en.dirceuresende.com/blog/sql-audit-server-audit-dml-ddl/)
 * [SQL Server - How to Monitor and Audit Data Changes in Tables Using Change Data Capture (CDC)](https://en.dirceuresende.com/blog/sql-server-how-to-monitor-and-audit-data-changes-in-tables-using-change-data-capture-cdc/)
-* [SQL Server 2016 - Data Masking with Dynamic Data Masking (DDM)](https://en.dirceuresende.com/blog/sql-server-data-masking-with-dynamic-data-masking-ddm/)
 * [SQL Server - How to use auditing to map actual required permissions on a user](https://en.dirceuresende.com/blog/sql-server-how-to-use-auditing-to-map-actual-required-permissions-to-a-user/)
 * [SQL Server 2016 - How to “Time Travel” Using the Temporal Tables Feature](https://en.dirceuresende.com/blog/sql-server-2016-how-to-travel-through-time-using-the-temporal-tables-feature/)
 * [SQL Server - How to Create a Data Change History for Your Tables (Audit Logs)](https://en.dirceuresende.com/blog/sql-server-how-to-create-data-change-history-for-your-audit-log-tables/)
 * [Using SQL Server Standard Trace to Audit Events (fn_trace_gettable)](https://en.dirceuresende.com/blog/using-sql-server-standard-trace-to-audit-fn_trace_gettable-events/)
-* [How to find out the date of last access to a table or view and execution of a procedure in SQL Server](https://en.dirceuresende.com/blog/how-to-find-out-the-date-of-last-access-to-a-table-or-view-and-execute-a-procedure-in-sql-server/)
 * [SQL Server - How to implement audit and control of logins (Logon Trigger)](https://en.dirceuresende.com/blog/how-to-implement-audit-and-login-control-in-sql-server-trigger-logon/)
 * [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
 * [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
 
 Blog Posts - Monitoring
 * [SQL Server - Query to return running queries (sp_WhoIsActive without consuming TempDB)](https://en.dirceuresende.com/blog/sql-server-query-to-return-active-sp_whoisactive-sessions-without-consuming-tempdb/)
+* [SQL Server - Using Resource Governor for greater control over server resources](https://en.dirceuresende.com/blog/sql-server-using-resource-governor-for-greater-control-of-server-resources/)
 * [SQL Server - How to Create Error and Exception Tracking in Your Database Using Extended Events (XE)](https://en.dirceuresende.com/blog/sql-server-how-to-create-error-and-exception-monitoring-in-your-database-using-extended-events-xe/)
 * [SQL Server - How to identify locks, blocks, and blocking sessions](https://en.dirceuresende.com/blog/sql-server-how-to-identify-locks-blocks-and-blocking-sessions/)
+* [How to find out the date of last access to a table or view and execution of a procedure in SQL Server](https://en.dirceuresende.com/blog/how-to-find-out-the-date-of-last-access-to-a-table-or-view-and-execute-a-procedure-in-sql-server/)
 * [SQL Server - How to know the date of a user's last login](https://en.dirceuresende.com/blog/sql-server-how-to-know-a-user%27s-last-login-date/)
 * [SQL Server - How to know how long a specific database has been online](https://en.dirceuresende.com/blog/sql-server-how-to-know-how-long-a-specific-database-has-been-online/)
 * [SQL Server - How to identify and collect time consuming query information using Extended Events (XE)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-collect-time-consuming-query-information-using-extended-events-xe/)
 * [Is your SQL Server up to date? Returning the latest version of Service Pack (SP) or Cumulative Update (CU) for your instance](https://en.dirceuresende.com/blog/your-sql-server-is-updated-by-returning-the-latest-version-of-service-pack-sp-or-cumulative-update-cu-for-your-instance/)
 * [SQL Server - How to recover the source code of deleted objects (View, Stored Procedure, Function and Trigger)](https://en.dirceuresende.com/blog/sql-server-retrieving-source-code-of-deleted-objects-view-stored-procedure-function-and-trigger/)
 * [SQL Server - How to identify deprecated features being used in the instance (Extended Events - XE)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-deprecated-features-deprecated-features-being-used-in-extended-events-instance-xe/)
-* [SQL Server - Using Resource Governor for greater control over server resources](https://en.dirceuresende.com/blog/sql-server-using-resource-governor-for-greater-control-of-server-resources/)
 * [SQL Server - How to identify and monitor total free disk space used by database datafiles](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-total-disk-space-used-by-databases-datafiles/)
 * [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
@@ -115,20 +115,19 @@ Blog Posts - Files
 * [File Operations Using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/file-operations-using-ole-automation-on-sql-server/)
 * [SQL Server - Importing and Exporting data from Excel spreadsheets](https://en.dirceuresende.com/blog/sql-server-importing-and-exporting-excel-spreadsheet-data/)
 * [Importing CSV Files into the SQL Server Database](https://en.dirceuresende.com/blog/importing-csv-files-into-sql-server-database/)
-* [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
-* [SQL Server - How to export database data to text file (CLR, OLE, BCP)](https://en.dirceuresende.com/blog/sql-server-how-to-export-database-data-to-clr-ole-bcp-text-file/)
 * [SQL Server - How to import text files into database (OLE Automation, CLR, BCP, BULK INSERT, OPENROWSET)](https://en.dirceuresende.com/blog/sql-server-import-text-files-into-ole-automation-clr-database-bcp-bulk-insert-openrowset/)
+* [SQL Server - How to export database data to text file (CLR, OLE, BCP)](https://en.dirceuresende.com/blog/sql-server-how-to-export-database-data-to-clr-ole-bcp-text-file/)
 * [SQL Server - How to export the contents of a column to XML files](https://en.dirceuresende.com/blog/sql-server-how-to-export-the-contents-of-a-column-to-xml-files/)
 * [SQL Server - How to export and import tabular data files (Ex: CSV) using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-export-and-import-character-delimited-files-csv-tabular-data-using-clr-c/)
-* [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
 * [How to export data from a SQL Server table to HTML](https://en.dirceuresende.com/blog/how-to-export-data-from-sql-server-table-to-html/)
+* [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
+* [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
 
 Blog Posts - SQLCLR, PowerShell and OLE Automation
 * [Introduction to SQL Common Language Runtime (CLR) in SQL Server](https://en.dirceuresende.com/blog/sql-clr-common-language-runtime-sql-server/)
 * [Performing POST and GET requests using CLR (C #) in SQL Server](https://en.dirceuresende.com/blog/performing-post-and-get-requests-using-clr-on-sql-server/)
 * [SQL Server – How to consult the dollar (USD), euro (EUR) or any other currency in real time with API and SQLCLR](https://en.dirceuresende.com/blog/sql-server-how-to-consult-the-dollar-quotation-usd-euro-eur-real-brl-or-any-other-currency-in-real-time-with-api-and-sqlclr/)
 * [SQL Server - How to send messages to Whatsapp contacts, groups and mailing lists via API](https://en.dirceuresende.com/blog/sql-server-how-to-send-messages-to-contacts-groups-and-whatsapp-mailing-lists-via-api/)
-* [Using PowerShell and the API with Agent or SSIS to Automate Updating a Power BI Data Set](https://en.dirceuresende.com/blog/how-to-use-powershell-and-api-with-agent-or-ssis-to-automate-updating-a-power-bi-dataset/)
 * [SQL Server - How to integrate database with Slack and send messages using Python and sp_execute_external_script](https://en.dirceuresende.com/blog/sql-server-how-to-do-database-integration-with-slack-and-send-messages-using-python-and-sp_execute_external_script/)
 * [SQL Server - How to calculate the distance between two locations using latitude and longitude (without API)](https://en.dirceuresende.com/blog/sql-server-how-to-calculate-distance-between-two-locations-using-latitude-and-longitude-without-api/)
 * [SQL Server - How to compress and unzip files and directories using 7-zip and xp_cmdshell or SQLCLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-compress-and-unzip-files-and-directories-using-7-zip-and-xp_cmdshell-or-sqlclr-c/)
@@ -172,6 +171,7 @@ Blog Posts - General Stuff
 
 Blog Posts - Business Intelligence
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
+* [Using PowerShell and the API with Agent or SSIS to Automate Updating a Power BI Data Set](https://en.dirceuresende.com/blog/how-to-use-powershell-and-api-with-agent-or-ssis-to-automate-updating-a-power-bi-dataset/)
 * [SQL Server Reporting Services (SSRS) - Which reports are most accessed? And which are not being used?](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-which-reports-are-most-accessed-and-which-are-not-being-used/)
 * [SQL Server Reporting Services (SSRS) - How to log the report view and identify which user is accessing](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-how-to-log-reports-view-and-identify-which-user-is-accessing/)
 * [Analysis Services - Creating Your First Multidimensional Cube in the Star Model (Star Schema)](https://en.dirceuresende.com/blog/analysis-services-how-to-create-your-first-multidimensional-cube-in-the-star-schema-star-model/)
