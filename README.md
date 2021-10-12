@@ -121,6 +121,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to implement audit and control of logins (Logon Trigger)](https://en.dirceuresende.com/blog/how-to-implement-audit-and-login-control-in-sql-server-trigger-logon/)
 * [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
 * [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
+* [SQL Server - Permissions and privileges audit trigger at database and instance level (GRANT and REVOKE)](https://en.dirceuresende.com/blog/sql-server-database-and-privilege-permission-and-trigger-audit-trigger-grant-revoke/)
 <br/>
 
 ### 📊 Blog Posts - Monitoring
@@ -138,6 +139,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to identify and monitor total free disk space used by database datafiles](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-total-disk-space-used-by-databases-datafiles/)
 * [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
+* [SQL Server – How to list the largest tables and indexes in the database and show the size of each](https://en.dirceuresende.com/blog/sql-server-how-to-list-the-largest-tables-and-indices-in-the-database-and-show-the-size-of-each/)
 <br/>
 
 ### 📁 Blog Posts - Files
@@ -208,11 +210,14 @@ Because my contributions and leadership in the Data Community, I have been recog
 ### 📈 Blog Posts - Business Intelligence
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
 * [Using PowerShell and the API with Agent or SSIS to Automate Updating a Power BI Data Set](https://en.dirceuresende.com/blog/how-to-use-powershell-and-api-with-agent-or-ssis-to-automate-updating-a-power-bi-dataset/)
+* [SQL Server and Power BI - How to analyze and generate WhatsApp group conversation statistics](https://en.dirceuresende.com/blog/sql-server-and-power-bi-how-to-analyze-and-generate-whatsapp-group-chat-statistics/)
 * [SQL Server Reporting Services (SSRS) - Which reports are most accessed? And which are not being used?](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-which-reports-are-most-accessed-and-which-are-not-being-used/)
 * [SQL Server Reporting Services (SSRS) - How to log the report view and identify which user is accessing](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-how-to-log-reports-view-and-identify-which-user-is-accessing/)
+* [SSRS - Reporting Services in your company without paying anything? Meet SQL Server Express with Advanced Services](https://en.dirceuresende.com/blog/ssrs-reporting-services-in-your-company-without-paying-anything-know-sql-server-express-with-advanced-services/)
 * [Analysis Services - Creating Your First Multidimensional Cube in the Star Model (Star Schema)](https://en.dirceuresende.com/blog/analysis-services-how-to-create-your-first-multidimensional-cube-in-the-star-schema-star-model/)
 * [Analysis Services - How to use XLMA or Powershell to process cubes and dimensions via command line (T-SQL) or SQL Agent Job](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-to-process-cubes-and-dimensions-via-tsql-powershell-or-sql-agent-job/)
 * [Analysis Services - How to use XLMA to backup and restore cubes via the T-SQL command line](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-for-cube-backup-and-restore-via-t-sql-command-line/)
+* [SQL Server and Power BI: How to load Stored Procedure data into SQL Server with DirectQuery](https://en.dirceuresende.com/blog/sql-server-and-power-bi-how-to-load-stored-procedure-data-into-sql-server-with-directquery/)
 <br/><br/>
 
 ## :blush: Nerd Stats
