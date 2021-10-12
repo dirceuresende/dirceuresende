@@ -45,7 +45,9 @@ I have worked as a DBA for a global technology company, providing DBA Outsourcin
 ## 🤓 Tech Community Leader
 I am very very active in the Data Platform technical community and have already spoken at the biggest data events on Microsoft technologies in Brazil, such as SQL Saturday, MVPConf, Power BI Roadshow and Power Platform World Tour.
 
-I publish videos on the Planilheiros Brasil channel, the largest YouTube channel on Power BI content in the world and have written over 400 technical articles on my blog, the most accessed database blog in Brazil and also on major portals such as iMasters and codigosimples.net
+I publish videos on the [Planilheiros](https://www.youtube.com/PlanilheirosBrasil), the largest YouTube channel related to Power BI content in Latin America and have written over 400 technical articles on my blog, the most accessed database blog in Brazil and also published articles on some major IT portals such as [iMasters](https://imasters.com.br/perfil/dirceumoraesresende) and [codigosimples.net](https://codigosimples.net/author/dirceu-resende/)
+
+As one of the leaders of a Data Community on my City (Vitória), called [SQL Server ES](http://sqlserveres.com.br/) we organized over 15 events in person and I am proud to be part of [SQL Saturday #900 - Vitória](https://en.dirceuresende.com/blog/sql-saturday-900-wins-es-a-dream-that-has-impacted-more-than-300-professionals-and-students/) a big data event that had 30 speakers and over 300 professionals and students in person with us. It was magic, a dream come true! 
 
 Because my contributions and leadership in the Data Community, I have been recognized as a Microsoft Most Valuable Professional (MVP) since 2018 [(Check my profile here)](https://mvp.microsoft.com/en-us/PublicProfile/5003166) and I have been one of the most active Data Platform MVP's in the World.
 <br/><br/>
