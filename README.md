@@ -3,8 +3,10 @@
 # 👋 Dirceu Resende
 
 - 📃 I’m currently blogging at [Dirceu Resende](https://www.dirceuresende.com)
-- 🌱 I’m currently posting Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
-- 🦄 I’m currently posting SQL Server videos at [PowerTuning](https://www.youtube.com/PowerTuningData)
+- 🌱 I publish Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
+- 🎥 I publish SQL Server videos at [PowerTuning](https://www.youtube.com/PowerTuningData)
+- 📄 I write SQL Server articles at [iMasters](https://imasters.com.br/perfil/dirceumoraesresende)
+- 📖 I write SQL Server articles at [códigosimples.net](https://codigosimples.net/author/dirceu-resende/)
 - 💼 I’m currently learning Data Storytelling, Analysis Services Internals and SQL Server Internals
 - 💬 Ask me about @sql, @sqlserver, @powerbi, @azuredatafactory, @ssis and @analysisservices
 - 📫 How to reach me: dirceuresende.com
@@ -26,7 +28,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * **Age**: 34
 * **Living in**: Vitória, Brazil
 * **Stack**: Azure SQL Database, Azure Analysis Services, Azure Data Factory, Power BI
-* **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree
+* **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [Check my title](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
 * **Certifications**: Microsoft Certified Solutions Expert [Check full list](https://www.dirceuresende.com/certificacoes)
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [View my MVP profile](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
 
