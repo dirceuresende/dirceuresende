@@ -20,6 +20,7 @@
     <a target='_blank' href="https://linkedin.com/in/dirceuresende" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a target='_blank' href="https://www.dirceuresende.com" alt="Website"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
     <a target='_blank' href="https://www.youtube.com/dirceu-resende" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></p>
+<br/><br/>
 
 ## 😄 About me
 Bachelor's degree in Information Systems from Granbery Methodist School as a prominent student, recognized by the Brazilian Society of Computing. I'm currently working as a BI analyst at a development bank in Barbados and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
@@ -31,23 +32,28 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [Check my title](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
 * **Certifications**: Microsoft Certified Solutions Expert [Check full list](https://www.dirceuresende.com/certificacoes)
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [View my MVP profile](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
+<br/><br/>
 
 ## 💼 My Trainings (Learn with me)
 * [Administrando Banco de Dados no Azure](https://www.dirceuresende.com/curso-azure)
 * [Segurança no SQL Server](https://www.dirceuresende.com/curso-seguranca)
+<br/><br/>
 
 ## :zap: My best content (Contents that make me proud)
 
 ### 🌍 Portals
 * [MSSQLServer - Data Platform Portal](https://mssqlserver.com.br/)
+<br/>
 
 ### 🎬 YouTube
 * [Power BI & Analysis Services](https://www.youtube.com/watch?v=i06lEDgCOTE&list=PLWfPHxJoa7zuGjcEiXxr5rmHVm775EAma)
 * [Power BI Report Server](https://www.youtube.com/watch?v=SjEO428ISmw&list=PLWfPHxJoa7zs8CPmMHPldxTS97G0ftCrF)
+<br/>
 
 ### 📖 Blog Series
 * [SQL Server - Security and Audit](https://en.dirceuresende.com/blog/series/security-and-audit/)
 * [SQL Server - Performance Tuning](https://en.dirceuresende.com/blog/series/performance-tuning/)
+<br/>
 
 ### ⚡ Blog Posts - Performance Tuning
 * [SQL Server - Introduction to Performance Tuning Study](https://en.dirceuresende.com/blog/sql-server-introduction-to-performance-tuning-study/)
@@ -61,6 +67,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - NOLOCK vs READPAST: Do you know the difference between the two?](https://en.dirceuresende.com/blog/sql-server-nolock-vs-readpast-you-know-the-difference-between-the-two/)
 * [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
 * [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
+<br/>
 
 ### 🔐 Blog Posts - Security
 * [SQL Server - How to identify fragile passwords, empty or equal to username](https://en.dirceuresende.com/blog/sql-server-how-to-identify-weak-passwords-empty-or-equal-to-username/)
@@ -71,6 +78,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - How to Avoid and Protect Against Ransomware Attacks Like WannaCry on Your Database Server](https://en.dirceuresende.com/blog/sql-server-how-to-prevent-and-protect-against-ransomware-attacks-like-wannacry-on-your-database-server/)
 * [SQL Server - How to use EXECUTE AS to execute commands as another user (Impersonate login and user)](https://en.dirceuresende.com/blog/sql-server-how-to-use-execute-as-to-execute-commands-as-another-impersonate-user-and-how-to-prevent-it/)
 * [SQL Server - How to Hide Databases from Unauthorized Users](https://en.dirceuresende.com/blog/sql-server-how-to-hide-databases-for-unauthorized-users/)
+<br/>
 
 ### 🔑 Blog Posts - Data Privacy
 * [General Personal Data Protection Act (LGPDP or LGPD) applied to SQL Server databases](https://en.dirceuresende.com/blog/general-lgpdp-or-lgpd-personal-data-protection-law-applied-to-sql-server-database/)
@@ -82,6 +90,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server 2008 - How to Encrypt Your Data Using Transparent Data Encryption (TDE)](https://en.dirceuresende.com/blog/sql-server-2008-how-to-encrypt-your-data-using-transparent-data-encryption-tde/)
 * [SQL Server 2016 - How to Encrypt Your Data Using Always Encrypted](https://en.dirceuresende.com/blog/sql-server-2016-how-to-encrypt-your-data-using-always-encrypted/)
 * [SQL Server 2016 - How to protect your data using Row Level Security (RLS)](https://en.dirceuresende.com/blog/sql-server-how-to-protect-your-data-using-row-level-security-rls/)
+<br/>
 
 ### 👀 Blog Posts - Audit
 * [Audit on SQL Server (Server Audit)](https://en.dirceuresende.com/blog/sql-audit-server-audit-dml-ddl/)
@@ -93,6 +102,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - How to implement audit and control of logins (Logon Trigger)](https://en.dirceuresende.com/blog/how-to-implement-audit-and-login-control-in-sql-server-trigger-logon/)
 * [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
 * [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
+<br/>
 
 ### 📊 Blog Posts - Monitoring
 * [SQL Server - Query to return running queries (sp_WhoIsActive without consuming TempDB)](https://en.dirceuresende.com/blog/sql-server-query-to-return-active-sp_whoisactive-sessions-without-consuming-tempdb/)
@@ -110,6 +120,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
 * [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
+<br/>
 
 ### 📁 Blog Posts - Files
 * [SQL Server - File Operations Using xp_cmdshell (Listing, Reading, Writing, Copying, Deleting, and Moving Files)](https://en.dirceuresende.com/blog/sql-server-file-operations-using-xp_cmdshell-like-list-read-write-copy-delete-and-move-files/)
@@ -124,6 +135,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [How to export data from a SQL Server table to HTML](https://en.dirceuresende.com/blog/how-to-export-data-from-sql-server-table-to-html/)
 * [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
 * [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
+<br/>
 
 ### 🛠️ Blog Posts - SQLCLR, PowerShell and OLE Automation
 * [Introduction to SQL Common Language Runtime (CLR) in SQL Server](https://en.dirceuresende.com/blog/sql-clr-common-language-runtime-sql-server/)
@@ -138,6 +150,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - How to read, list, create, change and delete Windows registry keys (Regedit) by CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-read-create-alter-and-delete-windows-registry-keys-by-clr-csharp/)
 * [SQL Server - How to list and eliminate Windows processes using the CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-and-delete-windows-processes-using-clr-csharp/)
 * [Consuming the Google Maps API using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/consuming-google-maps-api-using-ole-automation-on-sql-server/)
+<br/>
 
 ### 🧷 Blog Posts - Query Development
 * [SQL Server 2016 - Using Native JSON Support (JSON_VALUE, JSON_QUERY, OPENJSON, FOR JSON, ISJSON, JSON_MODIFY)](https://en.dirceuresende.com/blog/sql-server-2016-using-native-json-support-json_value-json_query-openjson-for-json-isjson-json_modify/)
@@ -155,6 +168,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - Grouping Data Using ROLLUP, CUBE, and GROUPING SETS](https://en.dirceuresende.com/blog/sql-server-grouping-data-using-cube-rollup-and-grouping-sets/)
 * [How to remove accent and special characters from a string in SQL Server](https://en.dirceuresende.com/blog/how-to-remove-accent-and-special-characters-from-a-string-in-sql-server/)
 * [Removing HTML Tags from a String in SQL Server](https://en.dirceuresende.com/blog/removing-html-tags-from-a-string-in-sql-server/)
+<br/>
 
 ### ✅ Blog Posts - General Stuff
 * [SQL Server - How to enable and configure Database mail to send and monitor database emails (sp_send_dbmail)](https://en.dirceuresende.com/blog/how-to-enable-send-monitor-mail-by-sql-server-sp_send_dbmail/)
@@ -170,6 +184,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [SQL Server - How to transfer logins between instances by backing up users, logins, and permissions](https://en.dirceuresende.com/blog/sql-server-how-to-transfer-logins-between-instances-generating-engineering-reserve-users-logins-and-permissions/)
 * [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
 * [SQL Server - How to export the source code of all Stored Procedures, Functions, Views and Triggers from a database to .sql files](https://en.dirceuresende.com/blog/sql-server-how-to-export-source-code-of-all-stored-procedures-functions-views-triggers-from-database-to-sql-files/)
+<br/>
 
 ### 📈 Blog Posts - Business Intelligence
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
@@ -179,6 +194,7 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 * [Analysis Services - Creating Your First Multidimensional Cube in the Star Model (Star Schema)](https://en.dirceuresende.com/blog/analysis-services-how-to-create-your-first-multidimensional-cube-in-the-star-schema-star-model/)
 * [Analysis Services - How to use XLMA or Powershell to process cubes and dimensions via command line (T-SQL) or SQL Agent Job](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-to-process-cubes-and-dimensions-via-tsql-powershell-or-sql-agent-job/)
 * [Analysis Services - How to use XLMA to backup and restore cubes via the T-SQL command line](https://en.dirceuresende.com/blog/analysis-services-how-to-use-xlma-for-cube-backup-and-restore-via-t-sql-command-line/)
+<br/><br/>
 
 ## :blush: Nerd Stats
 
