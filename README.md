@@ -23,7 +23,7 @@
 <br/><br/>
 
 ## 😄 About me
- I'm currently working as a BI analyst at a development bank in Barbados and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
+ I'm currently working as a Data Specialist at a development bank in Barbados and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
 
 * **Name**: Dirceu Resende
 * **Age**: 34
