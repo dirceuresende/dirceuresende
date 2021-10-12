@@ -38,18 +38,18 @@ Bachelor's degree in Information Systems from Granbery Methodist School as a pro
 
 ## :zap: My best content (Contents that make me proud)
 
-Portals
+🌍 Portals
 * [MSSQLServer - Data Platform Portal](https://mssqlserver.com.br/)
 
-YouTube
+🎬 YouTube
 * [Power BI & Analysis Services](https://www.youtube.com/watch?v=i06lEDgCOTE&list=PLWfPHxJoa7zuGjcEiXxr5rmHVm775EAma)
 * [Power BI Report Server](https://www.youtube.com/watch?v=SjEO428ISmw&list=PLWfPHxJoa7zs8CPmMHPldxTS97G0ftCrF)
 
-Blog Series
+📖 Blog Series
 * [SQL Server - Security and Audit](https://en.dirceuresende.com/blog/series/security-and-audit/)
 * [SQL Server - Performance Tuning](https://en.dirceuresende.com/blog/series/performance-tuning/)
 
-Blog Posts - Performance Tuning
+⚡ Blog Posts - Performance Tuning
 * [SQL Server - Introduction to Performance Tuning Study](https://en.dirceuresende.com/blog/sql-server-introduction-to-performance-tuning-study/)
 * [Understanding Index Functioning in SQL Server](https://en.dirceuresende.com/blog/understanding-how-indexes-work-in-sql-server/)
 * [SQL Server - When you should use ORDER BY in the query and when you should not use it at all!](https://en.dirceuresende.com/blog/sql-server-when-you-should-use-order-by-in-the-query-and-when-you-should-not-use-it-at-all/)
@@ -62,7 +62,7 @@ Blog Posts - Performance Tuning
 * [SQL Server 2014 - How to Estimate Progress and How Much Time Is Left to Create an Index](https://en.dirceuresende.com/blog/sql-server-2014-how-to-estimate-progress-and-how-much-time-is-left-to-create-an-index/)
 * [SQL Server – How to identify timeout or broken connections using Extended Events (XE) or SQL Profiler (Trace)](https://en.dirceuresende.com/blog/sql-server-how-to-identify-timeout-or-broken-connections-using-extended-events-xe-or-sql-profiler-trace/)
 
-Blog Posts - Security
+🔐 Blog Posts - Security
 * [SQL Server - How to identify fragile passwords, empty or equal to username](https://en.dirceuresende.com/blog/sql-server-how-to-identify-weak-passwords-empty-or-equal-to-username/)
 * [stpSecurity_Checklist - Best practices and security checklist for SQL Server](https://en.dirceuresende.com/blog/stpsecurity_checklist-best-practices-and-security-checklist-for-sql-server/)
 * [SQL Server - Understanding the Risks of TRUSTWORTHY Property Enabled in a Database](https://en.dirceuresende.com/blog/sql-server-understanding-the-risks-of-trustworthy-ownership-enabled-in-a-database/)
@@ -72,7 +72,7 @@ Blog Posts - Security
 * [SQL Server - How to use EXECUTE AS to execute commands as another user (Impersonate login and user)](https://en.dirceuresende.com/blog/sql-server-how-to-use-execute-as-to-execute-commands-as-another-impersonate-user-and-how-to-prevent-it/)
 * [SQL Server - How to Hide Databases from Unauthorized Users](https://en.dirceuresende.com/blog/sql-server-how-to-hide-databases-for-unauthorized-users/)
 
-Blog Posts - Data Privacy
+🔑 Blog Posts - Data Privacy
 * [General Personal Data Protection Act (LGPDP or LGPD) applied to SQL Server databases](https://en.dirceuresende.com/blog/general-lgpdp-or-lgpd-personal-data-protection-law-applied-to-sql-server-database/)
 * [SQL Server 2016 - Data Masking with Dynamic Data Masking (DDM)](https://en.dirceuresende.com/blog/sql-server-data-masking-with-dynamic-data-masking-ddm/)
 * [SQL Server - Avoiding Queries on Certain Columns with Column Level Security (CLS)](https://en.dirceuresende.com/blog/sql-server-avoiding-queries-on-certain-columns-with-column-level-security-cls/)
@@ -83,7 +83,7 @@ Blog Posts - Data Privacy
 * [SQL Server 2016 - How to Encrypt Your Data Using Always Encrypted](https://en.dirceuresende.com/blog/sql-server-2016-how-to-encrypt-your-data-using-always-encrypted/)
 * [SQL Server 2016 - How to protect your data using Row Level Security (RLS)](https://en.dirceuresende.com/blog/sql-server-how-to-protect-your-data-using-row-level-security-rls/)
 
-Blog Posts - Audit
+👀 Blog Posts - Audit
 * [Audit on SQL Server (Server Audit)](https://en.dirceuresende.com/blog/sql-audit-server-audit-dml-ddl/)
 * [SQL Server - How to Monitor and Audit Data Changes in Tables Using Change Data Capture (CDC)](https://en.dirceuresende.com/blog/sql-server-how-to-monitor-and-audit-data-changes-in-tables-using-change-data-capture-cdc/)
 * [SQL Server - How to use auditing to map actual required permissions on a user](https://en.dirceuresende.com/blog/sql-server-how-to-use-auditing-to-map-actual-required-permissions-to-a-user/)
@@ -94,7 +94,7 @@ Blog Posts - Audit
 * [How to create an Audit trigger to log object manipulation in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-trigger-to-log-object-handling-in-sql-server/)
 * [How to Create an Audit to Monitor Job Creation, Modification, and Deletion in SQL Server](https://en.dirceuresende.com/blog/how-to-create-an-audit-to-monitor-creation-modification-delete-jobs-on-sql-server/)
 
-Blog Posts - Monitoring
+📊 Blog Posts - Monitoring
 * [SQL Server - Query to return running queries (sp_WhoIsActive without consuming TempDB)](https://en.dirceuresende.com/blog/sql-server-query-to-return-active-sp_whoisactive-sessions-without-consuming-tempdb/)
 * [SQL Server - Using Resource Governor for greater control over server resources](https://en.dirceuresende.com/blog/sql-server-using-resource-governor-for-greater-control-of-server-resources/)
 * [SQL Server - How to Create Error and Exception Tracking in Your Database Using Extended Events (XE)](https://en.dirceuresende.com/blog/sql-server-how-to-create-error-and-exception-monitoring-in-your-database-using-extended-events-xe/)
@@ -111,7 +111,7 @@ Blog Posts - Monitoring
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
 * [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
 
-Blog Posts - Files
+📁 Blog Posts - Files
 * [SQL Server - File Operations Using xp_cmdshell (Listing, Reading, Writing, Copying, Deleting, and Moving Files)](https://en.dirceuresende.com/blog/sql-server-file-operations-using-xp_cmdshell-like-list-read-write-copy-delete-and-move-files/)
 * [SQL Server - How to list, read, write, copy, delete and move files with CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-read-write-copy-delete-and-move-files-with-clr-c/)
 * [File Operations Using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/file-operations-using-ole-automation-on-sql-server/)
@@ -125,7 +125,7 @@ Blog Posts - Files
 * [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
 * [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
 
-Blog Posts - SQLCLR, PowerShell and OLE Automation
+🛠️ Blog Posts - SQLCLR, PowerShell and OLE Automation
 * [Introduction to SQL Common Language Runtime (CLR) in SQL Server](https://en.dirceuresende.com/blog/sql-clr-common-language-runtime-sql-server/)
 * [Performing POST and GET requests using CLR (C #) in SQL Server](https://en.dirceuresende.com/blog/performing-post-and-get-requests-using-clr-on-sql-server/)
 * [SQL Server – How to consult the dollar (USD), euro (EUR) or any other currency in real time with API and SQLCLR](https://en.dirceuresende.com/blog/sql-server-how-to-consult-the-dollar-quotation-usd-euro-eur-real-brl-or-any-other-currency-in-real-time-with-api-and-sqlclr/)
@@ -139,7 +139,7 @@ Blog Posts - SQLCLR, PowerShell and OLE Automation
 * [SQL Server - How to list and eliminate Windows processes using the CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-and-delete-windows-processes-using-clr-csharp/)
 * [Consuming the Google Maps API using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/consuming-google-maps-api-using-ole-automation-on-sql-server/)
 
-Blog Posts - Query Development
+🧷 Blog Posts - Query Development
 * [SQL Server 2016 - Using Native JSON Support (JSON_VALUE, JSON_QUERY, OPENJSON, FOR JSON, ISJSON, JSON_MODIFY)](https://en.dirceuresende.com/blog/sql-server-2016-using-native-json-support-json_value-json_query-openjson-for-json-isjson-json_modify/)
 * [SQL Server - How to read, import, and export data from XML files](https://en.dirceuresende.com/blog/sql-server-how-to-read-import-and-export-xml-file-data/)
 * [SQL Server - How to use regular expressions (RegExp) in your database](https://en.dirceuresende.com/blog/sql-server-how-to-use-regexp-regular-expressions-in-your-database/)
@@ -156,7 +156,7 @@ Blog Posts - Query Development
 * [How to remove accent and special characters from a string in SQL Server](https://en.dirceuresende.com/blog/how-to-remove-accent-and-special-characters-from-a-string-in-sql-server/)
 * [Removing HTML Tags from a String in SQL Server](https://en.dirceuresende.com/blog/removing-html-tags-from-a-string-in-sql-server/)
 
-Blog Posts - General Stuff
+✅ Blog Posts - General Stuff
 * [SQL Server - How to enable and configure Database mail to send and monitor database emails (sp_send_dbmail)](https://en.dirceuresende.com/blog/how-to-enable-send-monitor-mail-by-sql-server-sp_send_dbmail/)
 * [SQLCMD - The SQL Server command line utility](https://en.dirceuresende.com/blog/sqlcmd-the-sql-server-command-line-utility/)
 * [SQL Server - How to send the contents of a table or query in the body of the email as HTML](https://en.dirceuresende.com/blog/sql-server-how-to-send-the-contents-of-a-table-or-query-in-the-body-of-the-email-as-html/)
@@ -171,7 +171,7 @@ Blog Posts - General Stuff
 * [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
 * [SQL Server - How to export the source code of all Stored Procedures, Functions, Views and Triggers from a database to .sql files](https://en.dirceuresende.com/blog/sql-server-how-to-export-source-code-of-all-stored-procedures-functions-views-triggers-from-database-to-sql-files/)
 
-Blog Posts - Business Intelligence
+📈 Blog Posts - Business Intelligence
 * [Azure Data Factory (ADF) – How to create offline documentation (in CSV) of your project](https://en.dirceuresende.com/blog/azure-data-factory-adf-how-to-create-an-offline-csv-documentation-of-your-project/)
 * [Using PowerShell and the API with Agent or SSIS to Automate Updating a Power BI Data Set](https://en.dirceuresende.com/blog/how-to-use-powershell-and-api-with-agent-or-ssis-to-automate-updating-a-power-bi-dataset/)
 * [SQL Server Reporting Services (SSRS) - Which reports are most accessed? And which are not being used?](https://en.dirceuresende.com/blog/sql-server-reporting-services-ssrs-which-reports-are-most-accessed-and-which-are-not-being-used/)
