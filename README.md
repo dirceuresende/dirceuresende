@@ -138,7 +138,6 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to identify and monitor total free disk space used by database datafiles](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-total-disk-space-used-by-databases-datafiles/)
 * [SQL Server - How to identify and monitor disks, free and used total disk space](https://en.dirceuresende.com/blog/sql-server-how-to-identify-and-monitor-free-and-used-total-disk-space-disks/)
 * [SQL Server - How to identify, monitor and prevent overflow in columns with IDENTITY and SEQUENCE of tables with many records](https://en.dirceuresende.com/blog/sql-server-how-to-identify-monitor-and-prevent-overflow-in-columns-with-identity-and-sequence-of-tables-with-many-records/)
-* [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
 <br/>
 
 ### 📁 Blog Posts - Files
@@ -153,7 +152,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to export and import tabular data files (Ex: CSV) using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-export-and-import-character-delimited-files-csv-tabular-data-using-clr-c/)
 * [How to export data from a SQL Server table to HTML](https://en.dirceuresende.com/blog/how-to-export-data-from-sql-server-table-to-html/)
 * [SQL Server - How to integrate with FTP and list, upload, and download files using CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-integrate-with-ftp-and-list-upload-upload-and-download-download-files-using-clr-csharp/)
-* [SQL Server - How to Batch All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
+* [SQL Server - How to Batch Run All .sql Scripts in a Folder or Directory by SQLCMD](https://en.dirceuresende.com/blog/sql-server-how-to-batch-run-all-sql-scripts-from-a-folder-or-directory-through-sqlcmd/)
 <br/>
 
 ### 🛠️ Blog Posts - SQLCLR, PowerShell and OLE Automation
@@ -169,6 +168,7 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to read, list, create, change and delete Windows registry keys (Regedit) by CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-read-create-alter-and-delete-windows-registry-keys-by-clr-csharp/)
 * [SQL Server - How to list and eliminate Windows processes using the CLR (C #)](https://en.dirceuresende.com/blog/sql-server-how-to-list-and-delete-windows-processes-using-clr-csharp/)
 * [Consuming the Google Maps API using OLE Automation in SQL Server](https://en.dirceuresende.com/blog/consuming-google-maps-api-using-ole-automation-on-sql-server/)
+* [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
 <br/>
 
 ### 🧷 Blog Posts - Query Development
@@ -201,8 +201,8 @@ Because my contributions and leadership in the Data Community, I have been recog
 * [SQL Server - How to query Active Directory (AD) information using Linked Server (ADSI)](https://en.dirceuresende.com/blog/sql-server-how-to-query-active-directory-ad-information-using-linked-server-adsi/)
 * [SQL Server - Understanding SQL Agent Permissions and Roles (SQLAgentUserRole, SQLAgentReaderRole, and SQLAgentOperatorRole)](https://en.dirceuresende.com/blog/sql-server-understanding-sql-agent-permissions-and-roles-sqlagentuserrole-sqlagentreaderrole-sqlagentoperatorrole/)
 * [SQL Server - How to transfer logins between instances by backing up users, logins, and permissions](https://en.dirceuresende.com/blog/sql-server-how-to-transfer-logins-between-instances-generating-engineering-reserve-users-logins-and-permissions/)
-* [SQL Server - How to back up all SQL Agent jobs via command line (CLR C # or Powershell)](https://en.dirceuresende.com/blog/sql-server-how-to-back-up-all-sql-agent-jobs-via-clr-c-or-powershell-command-line/)
 * [SQL Server - How to export the source code of all Stored Procedures, Functions, Views and Triggers from a database to .sql files](https://en.dirceuresende.com/blog/sql-server-how-to-export-source-code-of-all-stored-procedures-functions-views-triggers-from-database-to-sql-files/)
+* [How to estimate how much time is left to finish the backup on SQL Server?](https://en.dirceuresende.com/blog/how-to-estimate-how-much-time-is-left-to-finish-backup-on-sql-server/)
 <br/>
 
 ### 📈 Blog Posts - Business Intelligence
