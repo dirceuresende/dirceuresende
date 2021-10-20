@@ -11,7 +11,8 @@
 - 📖 I write SQL Server articles at [códigosimples.net](https://codigosimples.net/author/dirceu-resende/)
 - 💼 I’m currently learning Data Storytelling, Analysis Services Internals and SQL Server Internals
 - 💬 Ask me about @sql, @sqlserver, @powerbi, @azuredatafactory, @ssis and @analysisservices
-- 😄 Pronouns: deer-c-o
+- 😄 Pronouns: he/him
+- 🙉 Pronounce: deer-c-o
 - ⚡ Fun fact: just a nerd and food lover guy
 
 <div align="center"><p align="center"><br/>How to reach me:</p><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
