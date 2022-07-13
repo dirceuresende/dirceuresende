@@ -29,7 +29,7 @@
 <br/><br/>
 
 ## 😄 About me
- I'm currently working as a Data Specialist at a development bank in Barbados and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
+ I'm currently working as Senior Program Manager for Power BI and Analysis Services at Microsoft and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
 
 * **Name**: Dirceu Resende
 * **Age**: 34
@@ -48,7 +48,7 @@ I'm a database and BI specialist, working exclusively with SQL Server, Analysis 
 
 I worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the world's largest mining companies. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational company in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Consultancy. 
 
-I currently live in Barbados, in the Caribbean region, and work at the Caribbean Development Bank as a Data Specialist.
+I currently live in Brazil and work at the Microsoft as a Senior Program Manager.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
