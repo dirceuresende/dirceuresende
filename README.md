@@ -29,7 +29,7 @@
 <br/><br/>
 
 ## 😄 About me
- I'm currently working as Senior Program Manager for Power BI and Analysis Services at Microsoft and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
+ I'm currently working as Senior Data Architect at Power Tuning and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
 
 * **Name**: Dirceu Resende
 * **Age**: 34
