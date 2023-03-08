@@ -48,7 +48,7 @@ I'm a database and BI specialist, working exclusively with SQL Server, Analysis 
 
 I worked as a DBA for a global technology company, providing DBA Outsourcing services for one of the world's largest mining companies. I also worked as a BI and DBA analyst at Espírito Santo's largest finance company, as a BI analyst at a multinational company in the Energy sector, as well as a Senior Consultant at PowerTuning – Data Consultancy. 
 
-I currently live in Brazil and work at the Microsoft as a Senior Program Manager.
+I currently live in Brazil and work at Power Tuning as Senior Data Architect.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
