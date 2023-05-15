@@ -2,10 +2,9 @@
 <img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
 
 # 👋 Dirceu Resende
-> Data Architect, Data Analyst and DBA
-
 ![](https://komarev.com/ghpvc/?username=dirceuresende)
 
+> Data Architect, Data Analyst and DBA
 - 📃 I’m currently blogging at [Dirceu Resende](https://www.dirceuresende.com)
 - 🌱 I publish Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
 - 🎥 I publish SQL Server videos at [PowerTuning](https://www.youtube.com/PowerTuningData)
