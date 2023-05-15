@@ -4,6 +4,8 @@
 # 👋 Dirceu Resende
 > Data Architect, Data Analyst and DBA
 
+![](https://komarev.com/ghpvc/?username=dirceuresende)
+
 - 📃 I’m currently blogging at [Dirceu Resende](https://www.dirceuresende.com)
 - 🌱 I publish Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
 - 🎥 I publish SQL Server videos at [PowerTuning](https://www.youtube.com/PowerTuningData)
