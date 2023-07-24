@@ -18,15 +18,15 @@
 - 📃 I really enjoy studying and taking on certification exams [View my certifications](https://learn.microsoft.com/en-us/users/dirceu/transcript/vmlk1sn5m1klgj0?WT.mc_id=DP-MVP-5003166)
 
 <div align="center"><p align="center"><br/>How to reach me:</p><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-    <a target='_blank' href="https://www.dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a target='_blank' href="https://www.dirceuresende.com/telegram" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a target='_blank' href="https://www.dirceuresende.com" alt="Website"><img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/telegram" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com" alt="Website"><img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 
 <p align="center"><br/>Follow me on social media:</p>
-    <a target='_blank' href="https://twitter.com/dirceuresende" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a target='_blank' href="https://instagram.com/dirceu.resende/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a target='_blank' href="https://linkedin.com/in/dirceuresende" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a target='_blank' href="https://www.youtube.com/dirceu-resende" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/twitter" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/instagram" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/linkedin" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a target='_blank' href="https://dirceuresende.com/youtube" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 <br/><br/>
 
@@ -38,7 +38,7 @@
 * **Living in**: Vitória, Brazil
 * **Stack**: Azure SQL Database, Azure Analysis Services, Azure Data Factory, Power BI
 * **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [(Check my title)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
-* **Certifications**: Microsoft Certified Solutions Expert [(Check full list)](https://www.dirceuresende.com/certificacoes)
+* **Certifications**: Microsoft Certified Solutions Expert [(Check full list)](https://dirceuresende.com/certificacoes)
 * **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
