@@ -15,7 +15,7 @@
 - 😄 Pronouns: he/him
 - 🙉 Pronounce: deer-c-o
 - ⚡ Fun fact: just a nerd and food lover guy
-- 📃 I really enjoy studying and taking on certification exams [View my certifications](https://learn.microsoft.com/en-us/users/dirceu/transcript/vmlk1sn5m1klgj0?WT.mc_id=DP-MVP-5003166)
+- 📃 I really enjoy studying and taking certification exams [View my certifications](https://learn.microsoft.com/en-us/users/dirceu/transcript/vmlk1sn5m1klgj0?WT.mc_id=DP-MVP-5003166)
 
 <div align="center"><p align="center"><br/>How to reach me:</p><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
     <a target='_blank' href="https://dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
