@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=dirceuresende)
 
 > Data Architect, Data Analyst and DBA
-- 📃 I’m currently blogging at [Dirceu Resende](https://www.dirceuresende.com)
+- 📃 I’m currently blogging at [Dirceu Resende](https://dirceuresende.com)
 - 🌱 I publish Power BI videos at [Planilheiros](https://www.youtube.com/PlanilheirosBrasil)
 - 🎥 I publish SQL Server videos at [PowerTuning](https://www.youtube.com/PowerTuningData)
 - 📄 I write SQL Server articles at [iMasters](https://imasters.com.br/perfil/dirceumoraesresende)
@@ -15,6 +15,7 @@
 - 😄 Pronouns: he/him
 - 🙉 Pronounce: deer-c-o
 - ⚡ Fun fact: just a nerd and food lover guy
+- 📃 I’m really enjoy studying and taking on certification exams [View my certifications](https://learn.microsoft.com/en-us/users/dirceu/transcript/vmlk1sn5m1klgj0?WT.mc_id=DP-MVP-5003166)
 
 <div align="center"><p align="center"><br/>How to reach me:</p><a target='_blank' href="mailto:dirceu@dirceuresende.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
     <a target='_blank' href="https://www.dirceuresende.com/whatsapp" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
