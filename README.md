@@ -34,7 +34,7 @@
  I'm currently working as Senior Data Architect at Power Tuning and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
 
 * **Name**: Dirceu Resende
-* **Age**: 34
+* **Age**: 36
 * **Living in**: Vitória, Brazil
 * **Stack**: Azure SQL Database, Azure Analysis Services, Azure Data Factory, Power BI
 * **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [(Check my title)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
