@@ -60,7 +60,7 @@ I also published articles on some major IT portals such as [iMasters](https://im
 
 As one of the leaders of a Data Community on my City (Vitória), called [SQL Server ES](http://sqlserveres.com.br/) we organized over 15 events in person and I am proud to be part of [SQL Saturday #900 - Vitória](https://en.dirceuresende.com/blog/sql-saturday-900-wins-es-a-dream-that-has-impacted-more-than-300-professionals-and-students/) a big data event that had 30 speakers and over 300 professionals and students in person with us. It was magic, a dream that came true! 
 
-Because my contributions and leadership in the Data Community, I have been recognized as a Microsoft Most Valuable Professional (MVP) since 2018 [(Check my profile here)](https://mvp.microsoft.com/en-us/PublicProfile/5003166) and I have been one of the most active Data Platform MVP's in the World.
+Because my contributions and leadership in the Data Community, I have been recognized as a Microsoft Most Valuable Professional (MVP) since 2018 [(Check my profile here)](https://mvp.microsoft.com/en-US/mvp/profile/5f8b5971-a252-4060-9123-83662fbbb086) and I have been one of the most active Data Platform MVP's in the World.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
