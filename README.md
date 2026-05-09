@@ -31,15 +31,13 @@
 <br/><br/>
 
 ## 😄 About me
- I'm currently working as Senior Data Architect at Power Tuning and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
+ I'm currently working as Azure Cloud Administrator at Ryanair and I spend my free time with God, with my family, watching series, playing videogame and of course, studying and posting on my blog about Data Platform.
 
 * **Name**: Dirceu Resende
-* **Age**: 36
-* **Living in**: Vitória, Brazil
 * **Stack**: Azure SQL Database, Azure Analysis Services, Azure Data Factory, Power BI
 * **University**: Faculdade Metodista Granbery - Systems Information Bacharelor Degree as Best Student [(Check my title)](https://www.sbc.org.br/index.php?option=com_content&view=article&id=324:aluno-destaque-2009-referente-ao-1d-semestre&catid=201:aluno-detaque&Itemid=143)
 * **Certifications**: Microsoft Certified Solutions Expert [(Check full list)](https://dirceuresende.com/certificacoes)
-* **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-us/PublicProfile/5003166)
+* **Titles**: Microsoft Most Valuable Professional - Data Platform [(View my MVP profile)](https://mvp.microsoft.com/en-US/mvp/profile/5f8b5971-a252-4060-9123-83662fbbb086)
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
@@ -80,7 +78,8 @@ Because my contributions and leadership in the Data Community, I have been recog
 
 ### 🌍 Portals
 * [MS SQLServer - Data Platform Portal](https://mssqlserver.com.br/)
-* [SQL Server ES - Espirito Santo Data Community](https://sqlserveres.com.br/)
+* [Data ES - Espirito Santo Data Community](https://dataes.com.br/)
+* [TI ES - Espirito Santo Data Community](https://ties.dev.br/)
 <br/>
 
 ### 🎬 YouTube
